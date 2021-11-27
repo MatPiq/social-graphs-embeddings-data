@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Wikipedia Node Embeddings",
       "tensorShape": [
         2901,
         100
