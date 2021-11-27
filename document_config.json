@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        3929,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/document_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/document_meta.tsv"
+    }
+  ]
+}
