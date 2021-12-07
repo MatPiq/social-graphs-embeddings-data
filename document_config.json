@@ -3,7 +3,7 @@
     {
       "tensorName": "Wikipedia Document Embeddings",
       "tensorShape": [
-        3929,
+        4303,
         100
       ],
       "tensorPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/document_embeddings.tsv",
