@@ -7,7 +7,7 @@
         100
       ],
       "tensorPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/node_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/document_meta.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/MatPiq/social-graphs-embeddings-data/main/node_meta.tsv"
     }
   ]
 }
